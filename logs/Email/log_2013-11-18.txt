@@ -1,0 +1,50 @@
+2013-11-18 18:23:17 - INFO --> -------------------------- 
+2013-11-18 18:23:17 - INFO --> Controller/Method: users/p_signup 
+2013-11-18 18:23:18 - INFO --> From: Island Chatter (webmaster@sample-app.com) 
+2013-11-18 18:23:18 - INFO --> To: Island Chatter (webmaster@myapp.com),  
+2013-11-18 18:23:18 - INFO --> CC:  
+2013-11-18 18:23:18 - INFO --> BCC:  
+2013-11-18 18:23:18 - INFO --> Subject: Island Chatter SQL Error 
+2013-11-18 18:23:18 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO users SET first_name = 'susan', last_name = 'frank', email = 'sdf', password = 'af' No database selected<h2>Query History</h2>0 = INSERT INTO users SET first_name = 'susan', last_name = 'frank', email = 'sdf', password = 'af'<br><h2>SERVER</h2><pre>Array
+(
+    [REDIREC 
+2013-11-18 18:25:25 - INFO --> -------------------------- 
+2013-11-18 18:25:25 - INFO --> Controller/Method: users/p_signup 
+2013-11-18 18:25:25 - INFO --> From: Island Chatter (webmaster@sample-app.com) 
+2013-11-18 18:25:25 - INFO --> To: Island Chatter (webmaster@myapp.com),  
+2013-11-18 18:25:25 - INFO --> CC:  
+2013-11-18 18:25:25 - INFO --> BCC:  
+2013-11-18 18:25:25 - INFO --> Subject: Island Chatter SQL Error 
+2013-11-18 18:25:25 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO users SET first_name = 'qw', last_name = 'qw', email = 'qw', password = 'wq' No database selected<h2>Query History</h2>0 = INSERT INTO users SET first_name = 'qw', last_name = 'qw', email = 'qw', password = 'wq'<br><h2>SERVER</h2><pre>Array
+(
+    [REDIRECT_MIBDIRS] =>  
+2013-11-18 18:35:57 - INFO --> -------------------------- 
+2013-11-18 18:35:57 - INFO --> Controller/Method: users/p_signup 
+2013-11-18 18:35:57 - INFO --> From: Island Chatter (webmaster@sample-app.com) 
+2013-11-18 18:35:57 - INFO --> To: Island Chatter (webmaster@myapp.com),  
+2013-11-18 18:35:57 - INFO --> CC:  
+2013-11-18 18:35:57 - INFO --> BCC:  
+2013-11-18 18:35:57 - INFO --> Subject: Island Chatter SQL Error 
+2013-11-18 18:35:57 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO users SET first_name = 's', last_name = 's', email = 's', password = 's' No database selected<h2>Query History</h2>0 = INSERT INTO users SET first_name = 's', last_name = 's', email = 's', password = 's'<br><h2>SERVER</h2><pre>Array
+(
+    [REDIRECT_MIBDIRS] => C:/xampp 
+2013-11-18 18:42:40 - INFO --> -------------------------- 
+2013-11-18 18:42:40 - INFO --> Controller/Method: users/p_signup 
+2013-11-18 18:42:40 - INFO --> From: Island Chatter (webmaster@sample-app.com) 
+2013-11-18 18:42:40 - INFO --> To: Island Chatter (webmaster@myapp.com),  
+2013-11-18 18:42:40 - INFO --> CC:  
+2013-11-18 18:42:40 - INFO --> BCC:  
+2013-11-18 18:42:40 - INFO --> Subject: Island Chatter SQL Error 
+2013-11-18 18:42:40 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO users SET first_name = '', last_name = '', email = '', password = '' No database selected<h2>Query History</h2>0 = INSERT INTO users SET first_name = '', last_name = '', email = '', password = ''<br><h2>SERVER</h2><pre>Array
+(
+    [REDIRECT_MIBDIRS] => C:/xampp/php/ext 
+2013-11-18 18:44:35 - INFO --> -------------------------- 
+2013-11-18 18:44:35 - INFO --> Controller/Method: users/p_signup 
+2013-11-18 18:44:35 - INFO --> From: Island Chatter (webmaster@sample-app.com) 
+2013-11-18 18:44:35 - INFO --> To: Island Chatter (webmaster@myapp.com),  
+2013-11-18 18:44:35 - INFO --> CC:  
+2013-11-18 18:44:35 - INFO --> BCC:  
+2013-11-18 18:44:35 - INFO --> Subject: Island Chatter SQL Error 
+2013-11-18 18:44:35 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO users SET first_name = '', last_name = '', email = '', password = '' No database selected<h2>Query History</h2>0 = INSERT INTO users SET first_name = '', last_name = '', email = '', password = ''<br><h2>SERVER</h2><pre>Array
+(
+    [REDIRECT_MIBDIRS] => C:/xampp/php/ext 

@@ -1,0 +1,28 @@
+2013-11-04 17:28:02 - INFO --> -------------------------- 
+2013-11-04 17:28:02 - INFO --> Controller/Method: users/p_login 
+2013-11-04 17:28:02 - INFO --> From: Island Chatter (sfrank01@g.harvard.edu) 
+2013-11-04 17:28:02 - INFO --> To: Island Chatter (sfrank01@g.harvard.edu),  
+2013-11-04 17:28:02 - INFO --> CC:  
+2013-11-04 17:28:02 - INFO --> BCC:  
+2013-11-04 17:28:02 - INFO --> Subject: Island Chatter SQL Error 
+2013-11-04 17:28:02 - INFO --> Body: <h2>SQL Error</h2> SELECT token
+		FROM    users
+		WHERE   email = 'skipper@gmail.com'
+		AND		password = '9df46cfa0ed6486d8a3b91899b084894a2b9025a' No database selected<h2>Query History</h2>0 = SELECT token
+		FROM    users
+		WHERE   email = 'skipper@gmail.com'
+		AND		password = '9df46cfa0ed6486 
+2013-11-04 17:29:25 - INFO --> -------------------------- 
+2013-11-04 17:29:25 - INFO --> Controller/Method: users/p_login 
+2013-11-04 17:29:25 - INFO --> From: Island Chatter (sfrank01@g.harvard.edu) 
+2013-11-04 17:29:25 - INFO --> To: Island Chatter (sfrank01@g.harvard.edu),  
+2013-11-04 17:29:25 - INFO --> CC:  
+2013-11-04 17:29:25 - INFO --> BCC:  
+2013-11-04 17:29:25 - INFO --> Subject: Island Chatter SQL Error 
+2013-11-04 17:29:25 - INFO --> Body: <h2>SQL Error</h2> SELECT token
+		FROM    users
+		WHERE   email = 'skipper@gmail.com'
+		AND		password = '9df46cfa0ed6486d8a3b91899b084894a2b9025a' No database selected<h2>Query History</h2>0 = SELECT token
+		FROM    users
+		WHERE   email = 'skipper@gmail.com'
+		AND		password = '9df46cfa0ed6486 

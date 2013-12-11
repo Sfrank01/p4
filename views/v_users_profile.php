@@ -1,0 +1,1 @@
+<h2> This is the user profile  of<?=$user->first_name?></h2>

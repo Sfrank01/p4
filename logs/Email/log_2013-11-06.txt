@@ -1,0 +1,117 @@
+2013-11-06 1:04:39 - INFO --> -------------------------- 
+2013-11-06 1:04:39 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 1:04:39 - INFO --> From: Island Chatter (sfrank01@g.harvard.edu) 
+2013-11-06 1:04:39 - INFO --> To: Island Chatter (sfrank01@g.harvard.edu),  
+2013-11-06 1:04:39 - INFO --> CC:  
+2013-11-06 1:04:39 - INFO --> BCC:  
+2013-11-06 1:04:39 - INFO --> Subject: Island Chatter SQL Error 
+2013-11-06 1:04:39 - INFO --> Body: <h2>SQL Error</h2> SELECT email FROM users WHERE email = 'sdf' Unknown column 'email' in 'field list'<h2>Query History</h2>0 = SELECT email FROM users WHERE email = 'sdf'<br><h2>SERVER</h2><pre>Array
+(
+    [REDIRECT_MIBDIRS] => C:/xampp/php/extras/mibs
+    [REDIRECT_MYSQL_HOME] => \xampp\mysql\bin
+  
+2013-11-06 1:10:07 - INFO --> -------------------------- 
+2013-11-06 1:10:07 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 1:10:07 - INFO --> From: Island Chatter (sfrank01@g.harvard.edu) 
+2013-11-06 1:10:07 - INFO --> To: Island Chatter (sfrank01@g.harvard.edu),  
+2013-11-06 1:10:07 - INFO --> CC:  
+2013-11-06 1:10:07 - INFO --> BCC:  
+2013-11-06 1:10:07 - INFO --> Subject: Island Chatter SQL Error 
+2013-11-06 1:10:07 - INFO --> Body: <h2>SQL Error</h2> SELECT email FROM users WHERE email = 'asf' Unknown column 'email' in 'field list'<h2>Query History</h2>0 = SELECT email FROM users WHERE email = 'asf'<br><h2>SERVER</h2><pre>Array
+(
+    [REDIRECT_MIBDIRS] => C:/xampp/php/extras/mibs
+    [REDIRECT_MYSQL_HOME] => \xampp\mysql\bin
+  
+2013-11-06 1:14:50 - INFO --> -------------------------- 
+2013-11-06 1:14:50 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 1:14:50 - INFO --> From: Island Chatter (sfrank01@g.harvard.edu) 
+2013-11-06 1:14:50 - INFO --> To: Island Chatter (sfrank01@g.harvard.edu),  
+2013-11-06 1:14:50 - INFO --> CC:  
+2013-11-06 1:14:50 - INFO --> BCC:  
+2013-11-06 1:14:50 - INFO --> Subject: Island Chatter SQL Error 
+2013-11-06 1:14:50 - INFO --> Body: <h2>SQL Error</h2> SELECT email FROM users WHERE email = 'asd' Unknown column 'email' in 'field list'<h2>Query History</h2>0 = SELECT email FROM users WHERE email = 'asd'<br><h2>SERVER</h2><pre>Array
+(
+    [REDIRECT_MIBDIRS] => C:/xampp/php/extras/mibs
+    [REDIRECT_MYSQL_HOME] => \xampp\mysql\bin
+  
+2013-11-06 1:26:00 - INFO --> -------------------------- 
+2013-11-06 1:26:00 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 1:26:00 - INFO --> From: Island Chatter (sfrank01@g.harvard.edu) 
+2013-11-06 1:26:00 - INFO --> To: Island Chatter (sfrank01@g.harvard.edu),  
+2013-11-06 1:26:00 - INFO --> CC:  
+2013-11-06 1:26:00 - INFO --> BCC:  
+2013-11-06 1:26:00 - INFO --> Subject: Island Chatter SQL Error 
+2013-11-06 1:26:00 - INFO --> Body: <h2>SQL Error</h2> SELECT email FROM users WHERE email = '' Unknown column 'email' in 'field list'<h2>Query History</h2>0 = SELECT email FROM users WHERE email = ''<br><h2>SERVER</h2><pre>Array
+(
+    [REDIRECT_MIBDIRS] => C:/xampp/php/extras/mibs
+    [REDIRECT_MYSQL_HOME] => \xampp\mysql\bin
+    [RE 
+2013-11-06 1:26:05 - INFO --> -------------------------- 
+2013-11-06 1:26:05 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 1:26:05 - INFO --> From: Island Chatter (sfrank01@g.harvard.edu) 
+2013-11-06 1:26:05 - INFO --> To: Island Chatter (sfrank01@g.harvard.edu),  
+2013-11-06 1:26:05 - INFO --> CC:  
+2013-11-06 1:26:05 - INFO --> BCC:  
+2013-11-06 1:26:05 - INFO --> Subject: Island Chatter SQL Error 
+2013-11-06 1:26:05 - INFO --> Body: <h2>SQL Error</h2> SELECT email FROM users WHERE email = '' Unknown column 'email' in 'field list'<h2>Query History</h2>0 = SELECT email FROM users WHERE email = ''<br><h2>SERVER</h2><pre>Array
+(
+    [REDIRECT_MIBDIRS] => C:/xampp/php/extras/mibs
+    [REDIRECT_MYSQL_HOME] => \xampp\mysql\bin
+    [RE 
+2013-11-06 1:36:48 - INFO --> -------------------------- 
+2013-11-06 1:36:48 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 1:36:48 - INFO --> From: Island Chatter (sfrank01@g.harvard.edu) 
+2013-11-06 1:36:48 - INFO --> To: Island Chatter (sfrank01@g.harvard.edu),  
+2013-11-06 1:36:48 - INFO --> CC:  
+2013-11-06 1:36:48 - INFO --> BCC:  
+2013-11-06 1:36:48 - INFO --> Subject: Island Chatter SQL Error 
+2013-11-06 1:36:48 - INFO --> Body: <h2>SQL Error</h2> SELECT email FROM users WHERE email = '' Unknown column 'email' in 'field list'<h2>Query History</h2>0 = SELECT email FROM users WHERE email = ''<br><h2>SERVER</h2><pre>Array
+(
+    [REDIRECT_MIBDIRS] => C:/xampp/php/extras/mibs
+    [REDIRECT_MYSQL_HOME] => \xampp\mysql\bin
+    [RE 
+2013-11-06 1:38:00 - INFO --> -------------------------- 
+2013-11-06 1:38:00 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 1:38:00 - INFO --> From: Island Chatter (sfrank01@g.harvard.edu) 
+2013-11-06 1:38:00 - INFO --> To: Island Chatter (sfrank01@g.harvard.edu),  
+2013-11-06 1:38:00 - INFO --> CC:  
+2013-11-06 1:38:00 - INFO --> BCC:  
+2013-11-06 1:38:00 - INFO --> Subject: Island Chatter SQL Error 
+2013-11-06 1:38:00 - INFO --> Body: <h2>SQL Error</h2> SELECT email FROM users WHERE email = 'asdf' Unknown column 'email' in 'field list'<h2>Query History</h2>0 = SELECT email FROM users WHERE email = 'asdf'<br><h2>SERVER</h2><pre>Array
+(
+    [REDIRECT_MIBDIRS] => C:/xampp/php/extras/mibs
+    [REDIRECT_MYSQL_HOME] => \xampp\mysql\bin 
+2013-11-06 1:41:04 - INFO --> -------------------------- 
+2013-11-06 1:41:04 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 1:41:04 - INFO --> From: Island Chatter (sfrank01@g.harvard.edu) 
+2013-11-06 1:41:04 - INFO --> To: Island Chatter (sfrank01@g.harvard.edu),  
+2013-11-06 1:41:04 - INFO --> CC:  
+2013-11-06 1:41:04 - INFO --> BCC:  
+2013-11-06 1:41:04 - INFO --> Subject: Island Chatter SQL Error 
+2013-11-06 1:41:04 - INFO --> Body: <h2>SQL Error</h2> SELECT email FROM users WHERE email = 'asdf' Unknown column 'email' in 'field list'<h2>Query History</h2>0 = SELECT email FROM users WHERE email = 'asdf'<br><h2>SERVER</h2><pre>Array
+(
+    [REDIRECT_MIBDIRS] => C:/xampp/php/extras/mibs
+    [REDIRECT_MYSQL_HOME] => \xampp\mysql\bin 
+2013-11-06 1:44:57 - INFO --> -------------------------- 
+2013-11-06 1:44:57 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 1:44:57 - INFO --> From: Island Chatter (sfrank01@g.harvard.edu) 
+2013-11-06 1:44:57 - INFO --> To: Island Chatter (sfrank01@g.harvard.edu),  
+2013-11-06 1:44:57 - INFO --> CC:  
+2013-11-06 1:44:57 - INFO --> BCC:  
+2013-11-06 1:44:57 - INFO --> Subject: Island Chatter SQL Error 
+2013-11-06 1:44:57 - INFO --> Body: <h2>SQL Error</h2> SELECT email FROM users WHERE email = 's' Unknown column 'email' in 'field list'<h2>Query History</h2>0 = SELECT email FROM users WHERE email = 's'<br><h2>SERVER</h2><pre>Array
+(
+    [REDIRECT_MIBDIRS] => C:/xampp/php/extras/mibs
+    [REDIRECT_MYSQL_HOME] => \xampp\mysql\bin
+    [ 
+2013-11-06 2:15:27 - INFO --> -------------------------- 
+2013-11-06 2:15:27 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 2:15:27 - INFO --> From: Island Chatter (sfrank01@g.harvard.edu) 
+2013-11-06 2:15:27 - INFO --> To: Island Chatter (sfrank01@g.harvard.edu),  
+2013-11-06 2:15:27 - INFO --> CC:  
+2013-11-06 2:15:27 - INFO --> BCC:  
+2013-11-06 2:15:27 - INFO --> Subject: Island Chatter SQL Error 
+2013-11-06 2:15:27 - INFO --> Body: <h2>SQL Error</h2> SELECT email FROM users WHERE email = 'skipper@gmail.com' Unknown column 'email' in 'field list'<h2>Query History</h2>0 = SELECT email FROM users WHERE email = 'skipper@gmail.com'<br><h2>SERVER</h2><pre>Array
+(
+    [REDIRECT_MIBDIRS] => C:/xampp/php/extras/mibs
+    [REDIRECT_MYSQL 
