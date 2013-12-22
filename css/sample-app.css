@@ -74,7 +74,7 @@ img.logo3{margin-top:-239px;
 		 float:right;
 		}		
 		
-img.logo4{margin-top:-270px;
+img.logo4{margin-top:-305px;
 		 margin-right:825px;
 		 float:right;
 		 
@@ -103,9 +103,35 @@ img.logo4{margin-top:-270px;
 		border:;
 	}	
 	
+	
+	
+#postsimage {background-color:;
+		background-image:;
+		padding-top:;
+		padding-left:;
+		margin-right:400px;	
+		margin-top:-230px;
+		width:229px;
+		float:right;
+		border:;
+	}	
+	
+	
+#postdelete {background-color:;
+		background-image:;
+		padding-top:;
+		padding-left:;
+		margin-right:350px;	
+		margin-top:-330px;
+		width:229px;
+		float:right;
+		border:;
+	}	
+		
+	
 #greeting	{background-color:white;
-			 margin-top:-229px;
-			 margin-left:40px;
+			 margin-top:-249px;
+			 margin-left:80px;
 			 border:;
 			 width:360px;
 			 height:180px;
@@ -126,7 +152,7 @@ img.logo4{margin-top:-270px;
 #login			{border:;
 				 border-radius:10px;
 				 font-size:12px;
-				 color:red;
+				 color:grey;
 				 font-family:"Century Gothic";
 				 font-weight:strong;
 				 margin-left:450px;
@@ -134,32 +160,32 @@ img.logo4{margin-top:-270px;
 				}		
 				
 #signup			{border:;
-				 border-radius:10px;
+				 border-radius:5px;
 				 font-size:12px;
-				 color:red;
+				 color:grey;
 				 font-family:"Century Gothic";
 				 font-weight:strong;
 				 margin-left:450px;
 				 margin-top:-173px;
 				}	
 #postadd		{border:;
-				 border-radius:10px;
+				 border-radius:5px;
 				 font-size:12px;
-				 color:red;
+				 color:grey;
 				 font-family:"Century Gothic";
 				 font-weight:strong;
 				 margin-left:370px;
-				 margin-top:-173px;
+				 margin-top:-253px;
 				}				
 						
 			
 			
 input[type='text']{background-color:;
 				 border:1px dotted grey;
-				 border-radius:10px;
+				 border-radius:5px;
 				 box-shadow: 5px 5px 5px #999999;
 				 font-size:13px;
-				 color:red;
+				 color:grey;
 				 font-family:"Century Gothic";
 				 font-weight:normal;
 				  margin-left:;
@@ -167,7 +193,7 @@ input[type='text']{background-color:;
 				 
 input[type='password']{background-color:;
 				 border:1px dotted grey;
-				 border-radius:10px;
+				 border-radius:5px;
 				 box-shadow: 5px 5px 5px #999999;
 				 font-size:13px;
 				 color:red;
@@ -177,7 +203,7 @@ input[type='password']{background-color:;
 
 input[type='submit']{background-color:white;
 				 border:1px dotted grey;
-				 border-radius:10px;
+				 border-radius:5px;
 				 box-shadow: 5px 5px 5px #999999;
 				 font-size:13px;
 				 color:grey;

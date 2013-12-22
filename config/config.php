@@ -46,5 +46,10 @@ A email designated to receive messages from the server. Examples:
 	define('PASSWORD_SALT', 'abcdefg');
 	define('TOKEN_SALT', 'abcdefg');
 	
-	
+# For uploading images	
+define( "ARTICLE_IMAGE_PATH", "images/articles" );
+define( "IMG_TYPE_FULLSIZE", "fullsize" );
+define( "IMG_TYPE_THUMB", "thumb" );
+define( "ARTICLE_THUMB_WIDTH", 120 );
+define( "JPEG_QUALITY", 85 );
 	

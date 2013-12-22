@@ -1,0 +1,280 @@
+2013-12-18 8:19:00 - INFO --> -------------------------- 
+2013-12-18 8:19:00 - INFO --> Controller/Method: posts/delete 
+2013-12-18 8:19:00 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 8:19:00 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 8:19:00 - INFO --> CC:  
+2013-12-18 8:19:00 - INFO --> BCC:  
+2013-12-18 8:19:00 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 8:19:00 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts WHERE user_id = 15 AND post_id =  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662 
+2013-12-18 8:19:02 - INFO --> -------------------------- 
+2013-12-18 8:19:02 - INFO --> Controller/Method: posts/delete 
+2013-12-18 8:19:02 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 8:19:02 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 8:19:02 - INFO --> CC:  
+2013-12-18 8:19:02 - INFO --> BCC:  
+2013-12-18 8:19:02 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 8:19:02 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts WHERE user_id = 15 AND post_id =  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662 
+2013-12-18 8:19:11 - INFO --> -------------------------- 
+2013-12-18 8:19:11 - INFO --> Controller/Method: posts/delete 
+2013-12-18 8:19:11 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 8:19:11 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 8:19:11 - INFO --> CC:  
+2013-12-18 8:19:11 - INFO --> BCC:  
+2013-12-18 8:19:11 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 8:19:11 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts WHERE user_id = 15 AND post_id =  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662 
+2013-12-18 8:19:22 - INFO --> -------------------------- 
+2013-12-18 8:19:22 - INFO --> Controller/Method: posts/delete 
+2013-12-18 8:19:22 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 8:19:22 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 8:19:22 - INFO --> CC:  
+2013-12-18 8:19:22 - INFO --> BCC:  
+2013-12-18 8:19:22 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 8:19:22 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts WHERE user_id = 15 AND post_id =  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662 
+2013-12-18 8:20:52 - INFO --> -------------------------- 
+2013-12-18 8:20:52 - INFO --> Controller/Method: posts/delete 
+2013-12-18 8:20:52 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 8:20:52 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 8:20:52 - INFO --> CC:  
+2013-12-18 8:20:52 - INFO --> BCC:  
+2013-12-18 8:20:52 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 8:20:52 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts WHERE user_id = 15 AND post_id =  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662 
+2013-12-18 8:21:05 - INFO --> -------------------------- 
+2013-12-18 8:21:05 - INFO --> Controller/Method: posts/delete 
+2013-12-18 8:21:05 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 8:21:05 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 8:21:05 - INFO --> CC:  
+2013-12-18 8:21:05 - INFO --> BCC:  
+2013-12-18 8:21:05 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 8:21:05 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts WHERE user_id = 15 AND post_id =  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662 
+2013-12-18 8:21:28 - INFO --> -------------------------- 
+2013-12-18 8:21:28 - INFO --> Controller/Method: posts/delete 
+2013-12-18 8:21:28 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 8:21:28 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 8:21:28 - INFO --> CC:  
+2013-12-18 8:21:28 - INFO --> BCC:  
+2013-12-18 8:21:28 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 8:21:28 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts WHERE user_id = 15 AND post_id =  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662 
+2013-12-18 8:21:32 - INFO --> -------------------------- 
+2013-12-18 8:21:32 - INFO --> Controller/Method: posts/delete 
+2013-12-18 8:21:32 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 8:21:32 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 8:21:32 - INFO --> CC:  
+2013-12-18 8:21:32 - INFO --> BCC:  
+2013-12-18 8:21:32 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 8:21:32 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts WHERE user_id = 15 AND post_id =  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662 
+2013-12-18 8:24:01 - INFO --> -------------------------- 
+2013-12-18 8:24:01 - INFO --> Controller/Method: posts/delete 
+2013-12-18 8:24:01 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 8:24:01 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 8:24:01 - INFO --> CC:  
+2013-12-18 8:24:01 - INFO --> BCC:  
+2013-12-18 8:24:01 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 8:24:01 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts WHERE user_id = 15 AND post_id =  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662 
+2013-12-18 8:39:57 - INFO --> -------------------------- 
+2013-12-18 8:39:57 - INFO --> Controller/Method: posts/delete 
+2013-12-18 8:39:57 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 8:39:57 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 8:39:57 - INFO --> CC:  
+2013-12-18 8:39:57 - INFO --> BCC:  
+2013-12-18 8:39:57 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 8:39:57 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662b5e8ee22e366153a61970c3 
+2013-12-18 8:40:04 - INFO --> -------------------------- 
+2013-12-18 8:40:04 - INFO --> Controller/Method: posts/delete 
+2013-12-18 8:40:04 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 8:40:04 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 8:40:04 - INFO --> CC:  
+2013-12-18 8:40:04 - INFO --> BCC:  
+2013-12-18 8:40:04 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 8:40:04 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662b5e8ee22e366153a61970c3 
+2013-12-18 8:43:18 - INFO --> -------------------------- 
+2013-12-18 8:43:18 - INFO --> Controller/Method: posts/delete 
+2013-12-18 8:43:18 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 8:43:18 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 8:43:18 - INFO --> CC:  
+2013-12-18 8:43:18 - INFO --> BCC:  
+2013-12-18 8:43:18 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 8:43:18 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662b5e8ee22e366153a61970c3 
+2013-12-18 8:44:23 - INFO --> -------------------------- 
+2013-12-18 8:44:23 - INFO --> Controller/Method: posts/delete 
+2013-12-18 8:44:23 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 8:44:23 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 8:44:23 - INFO --> CC:  
+2013-12-18 8:44:23 - INFO --> BCC:  
+2013-12-18 8:44:23 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 8:44:23 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662b5e8ee22e366153a61970c3 
+2013-12-18 8:45:48 - INFO --> -------------------------- 
+2013-12-18 8:45:48 - INFO --> Controller/Method: posts/delete 
+2013-12-18 8:45:48 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 8:45:48 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 8:45:48 - INFO --> CC:  
+2013-12-18 8:45:48 - INFO --> BCC:  
+2013-12-18 8:45:48 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 8:45:48 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662b5e8ee22e366153a61970c3 
+2013-12-18 8:46:15 - INFO --> -------------------------- 
+2013-12-18 8:46:15 - INFO --> Controller/Method: posts/delete 
+2013-12-18 8:46:15 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 8:46:15 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 8:46:15 - INFO --> CC:  
+2013-12-18 8:46:15 - INFO --> BCC:  
+2013-12-18 8:46:15 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 8:46:15 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662b5e8ee22e366153a61970c3 
+2013-12-18 8:48:32 - INFO --> -------------------------- 
+2013-12-18 8:48:32 - INFO --> Controller/Method: posts/delete 
+2013-12-18 8:48:32 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 8:48:32 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 8:48:32 - INFO --> CC:  
+2013-12-18 8:48:32 - INFO --> BCC:  
+2013-12-18 8:48:32 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 8:48:32 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662b5e8ee22e366153a61970c3 
+2013-12-18 8:48:42 - INFO --> -------------------------- 
+2013-12-18 8:48:42 - INFO --> Controller/Method: posts/delete 
+2013-12-18 8:48:42 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 8:48:42 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 8:48:42 - INFO --> CC:  
+2013-12-18 8:48:42 - INFO --> BCC:  
+2013-12-18 8:48:42 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 8:48:42 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662b5e8ee22e366153a61970c3 
+2013-12-18 8:49:22 - INFO --> -------------------------- 
+2013-12-18 8:49:22 - INFO --> Controller/Method: posts/delete 
+2013-12-18 8:49:22 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 8:49:22 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 8:49:22 - INFO --> CC:  
+2013-12-18 8:49:22 - INFO --> BCC:  
+2013-12-18 8:49:22 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 8:49:22 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662b5e8ee22e366153a61970c3 
+2013-12-18 8:51:20 - INFO --> -------------------------- 
+2013-12-18 8:51:20 - INFO --> Controller/Method: posts/delete 
+2013-12-18 8:51:20 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 8:51:20 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 8:51:20 - INFO --> CC:  
+2013-12-18 8:51:20 - INFO --> BCC:  
+2013-12-18 8:51:20 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 8:51:20 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662b5e8ee22e366153a61970c3 
+2013-12-18 8:53:54 - INFO --> -------------------------- 
+2013-12-18 8:53:54 - INFO --> Controller/Method: posts/delete 
+2013-12-18 8:53:54 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 8:53:54 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 8:53:54 - INFO --> CC:  
+2013-12-18 8:53:54 - INFO --> BCC:  
+2013-12-18 8:53:54 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 8:53:54 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662b5e8ee22e366153a61970c3 
+2013-12-18 8:55:04 - INFO --> -------------------------- 
+2013-12-18 8:55:04 - INFO --> Controller/Method: posts/delete 
+2013-12-18 8:55:04 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 8:55:04 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 8:55:04 - INFO --> CC:  
+2013-12-18 8:55:04 - INFO --> BCC:  
+2013-12-18 8:55:04 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 8:55:04 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662b5e8ee22e366153a61970c3 
+2013-12-18 8:55:13 - INFO --> -------------------------- 
+2013-12-18 8:55:13 - INFO --> Controller/Method: posts/delete 
+2013-12-18 8:55:13 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 8:55:13 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 8:55:13 - INFO --> CC:  
+2013-12-18 8:55:13 - INFO --> BCC:  
+2013-12-18 8:55:13 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 8:55:13 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662b5e8ee22e366153a61970c3 
+2013-12-18 8:56:55 - INFO --> -------------------------- 
+2013-12-18 8:56:55 - INFO --> Controller/Method: posts/delete 
+2013-12-18 8:56:55 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 8:56:55 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 8:56:55 - INFO --> CC:  
+2013-12-18 8:56:55 - INFO --> BCC:  
+2013-12-18 8:56:55 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 8:56:55 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662b5e8ee22e366153a61970c3 
+2013-12-18 9:00:28 - INFO --> -------------------------- 
+2013-12-18 9:00:28 - INFO --> Controller/Method: posts/delete 
+2013-12-18 9:00:28 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 9:00:28 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 9:00:28 - INFO --> CC:  
+2013-12-18 9:00:28 - INFO --> BCC:  
+2013-12-18 9:00:28 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 9:00:28 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts WHERE user_id = 15 AND content =  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662 
+2013-12-18 9:00:52 - INFO --> -------------------------- 
+2013-12-18 9:00:52 - INFO --> Controller/Method: posts/delete 
+2013-12-18 9:00:52 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 9:00:52 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 9:00:52 - INFO --> CC:  
+2013-12-18 9:00:52 - INFO --> BCC:  
+2013-12-18 9:00:52 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 9:00:52 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts WHERE user_id = 15 AND content =  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662 
+2013-12-18 9:06:49 - INFO --> -------------------------- 
+2013-12-18 9:06:49 - INFO --> Controller/Method: posts/delete 
+2013-12-18 9:06:49 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 9:06:49 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 9:06:49 - INFO --> CC:  
+2013-12-18 9:06:49 - INFO --> BCC:  
+2013-12-18 9:06:49 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 9:06:49 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts WHERE user_id = 15 AND content =  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662 
+2013-12-18 9:12:30 - INFO --> -------------------------- 
+2013-12-18 9:12:30 - INFO --> Controller/Method: posts/delete 
+2013-12-18 9:12:30 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 9:12:30 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 9:12:30 - INFO --> CC:  
+2013-12-18 9:12:30 - INFO --> BCC:  
+2013-12-18 9:12:30 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 9:12:30 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts WHERE user_id = 15 AND content =  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662 
+2013-12-18 9:12:37 - INFO --> -------------------------- 
+2013-12-18 9:12:37 - INFO --> Controller/Method: posts/delete 
+2013-12-18 9:12:37 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-18 9:12:37 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-18 9:12:37 - INFO --> CC:  
+2013-12-18 9:12:37 - INFO --> BCC:  
+2013-12-18 9:12:37 - INFO --> Subject: v-pop SQL Error 
+2013-12-18 9:12:37 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts WHERE user_id = 15 AND content =  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'cdee8e1662 

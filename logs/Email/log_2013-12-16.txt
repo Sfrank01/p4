@@ -1,0 +1,1163 @@
+2013-12-16 7:15:04 - INFO --> -------------------------- 
+2013-12-16 7:15:04 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:15:04 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:15:04 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:15:04 - INFO --> CC:  
+2013-12-16 7:15:04 - INFO --> BCC:  
+2013-12-16 7:15:04 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:15:04 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+           
+            users.first_name,
+            users.last_name
+        FROM posts
+        
+        INNER JOIN users 
+            ON posts.user_id = users.user_ 
+2013-12-16 7:16:05 - INFO --> -------------------------- 
+2013-12-16 7:16:05 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:16:05 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:16:05 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:16:05 - INFO --> CC:  
+2013-12-16 7:16:05 - INFO --> BCC:  
+2013-12-16 7:16:05 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:16:05 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+			
+            users.first_name,
+            users.last_name
+        FROM posts
+        INNER JOIN users_users 
+            ON posts.user_id = users_users.user_id_fol 
+2013-12-16 7:16:07 - INFO --> -------------------------- 
+2013-12-16 7:16:07 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:16:07 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:16:07 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:16:07 - INFO --> CC:  
+2013-12-16 7:16:07 - INFO --> BCC:  
+2013-12-16 7:16:07 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:16:07 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+			
+            users.first_name,
+            users.last_name
+        FROM posts
+        INNER JOIN users_users 
+            ON posts.user_id = users_users.user_id_fol 
+2013-12-16 7:16:25 - INFO --> -------------------------- 
+2013-12-16 7:16:25 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:16:25 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:16:25 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:16:25 - INFO --> CC:  
+2013-12-16 7:16:25 - INFO --> BCC:  
+2013-12-16 7:16:25 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:16:25 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+			
+            users.first_name,
+            users.last_name
+        FROM posts
+        INNER JOIN users_users 
+            ON posts.user_id = users_users.user_id_fol 
+2013-12-16 7:16:45 - INFO --> -------------------------- 
+2013-12-16 7:16:45 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:16:45 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:16:45 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:16:45 - INFO --> CC:  
+2013-12-16 7:16:45 - INFO --> BCC:  
+2013-12-16 7:16:45 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:16:45 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+			
+            users.first_name,
+            users.last_name
+        FROM posts
+        INNER JOIN users_users 
+            ON posts.user_id = users_users.user_id_fol 
+2013-12-16 7:16:49 - INFO --> -------------------------- 
+2013-12-16 7:16:49 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:16:49 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:16:49 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:16:49 - INFO --> CC:  
+2013-12-16 7:16:49 - INFO --> BCC:  
+2013-12-16 7:16:49 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:16:49 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+			
+            users.first_name,
+            users.last_name
+        FROM posts
+        INNER JOIN users_users 
+            ON posts.user_id = users_users.user_id_fol 
+2013-12-16 7:16:50 - INFO --> -------------------------- 
+2013-12-16 7:16:50 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:16:50 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:16:50 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:16:50 - INFO --> CC:  
+2013-12-16 7:16:50 - INFO --> BCC:  
+2013-12-16 7:16:50 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:16:50 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+			
+            users.first_name,
+            users.last_name
+        FROM posts
+        INNER JOIN users_users 
+            ON posts.user_id = users_users.user_id_fol 
+2013-12-16 7:16:51 - INFO --> -------------------------- 
+2013-12-16 7:16:51 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:16:51 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:16:51 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:16:51 - INFO --> CC:  
+2013-12-16 7:16:51 - INFO --> BCC:  
+2013-12-16 7:16:51 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:16:51 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+			
+            users.first_name,
+            users.last_name
+        FROM posts
+        INNER JOIN users_users 
+            ON posts.user_id = users_users.user_id_fol 
+2013-12-16 7:18:22 - INFO --> -------------------------- 
+2013-12-16 7:18:22 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:18:22 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:18:22 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:18:22 - INFO --> CC:  
+2013-12-16 7:18:22 - INFO --> BCC:  
+2013-12-16 7:18:22 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:18:22 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+        FROM posts
+        
+        WHERE users_users.user_id = 11 Unknown column 'users.first_name' i 
+2013-12-16 7:23:28 - INFO --> -------------------------- 
+2013-12-16 7:23:28 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:23:28 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:23:28 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:23:28 - INFO --> CC:  
+2013-12-16 7:23:28 - INFO --> BCC:  
+2013-12-16 7:23:28 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:23:28 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+        FROM posts
+        
+        INNER JOIN users 
+            ON posts.user_id = users.user_id
+  
+2013-12-16 7:24:26 - INFO --> -------------------------- 
+2013-12-16 7:24:26 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:24:26 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:24:26 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:24:26 - INFO --> CC:  
+2013-12-16 7:24:26 - INFO --> BCC:  
+2013-12-16 7:24:26 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:24:26 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+        
+        WHERE users_users.user_id = 11 You have an error in your SQL syntax; check the manual  
+2013-12-16 7:24:28 - INFO --> -------------------------- 
+2013-12-16 7:24:28 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:24:28 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:24:28 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:24:28 - INFO --> CC:  
+2013-12-16 7:24:28 - INFO --> BCC:  
+2013-12-16 7:24:28 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:24:28 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+        
+        WHERE users_users.user_id = 11 You have an error in your SQL syntax; check the manual  
+2013-12-16 7:24:43 - INFO --> -------------------------- 
+2013-12-16 7:24:43 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:24:43 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:24:43 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:24:43 - INFO --> CC:  
+2013-12-16 7:24:43 - INFO --> BCC:  
+2013-12-16 7:24:43 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:24:43 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+        
+        WHERE users_users.user_id = 11 You have an error in your SQL syntax; check the manual  
+2013-12-16 7:26:27 - INFO --> -------------------------- 
+2013-12-16 7:26:27 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:26:27 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:26:27 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:26:27 - INFO --> CC:  
+2013-12-16 7:26:27 - INFO --> BCC:  
+2013-12-16 7:26:27 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:26:27 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+			11 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server versi 
+2013-12-16 7:27:43 - INFO --> -------------------------- 
+2013-12-16 7:27:43 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:27:43 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:27:43 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:27:43 - INFO --> CC:  
+2013-12-16 7:27:43 - INFO --> BCC:  
+2013-12-16 7:27:43 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:27:43 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+			WHERE user_id = 11 You have an error in your SQL syntax; check the manual that corresponds to your My 
+2013-12-16 7:27:44 - INFO --> -------------------------- 
+2013-12-16 7:27:44 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:27:44 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:27:44 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:27:44 - INFO --> CC:  
+2013-12-16 7:27:44 - INFO --> BCC:  
+2013-12-16 7:27:44 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:27:44 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+			WHERE user_id = 11 You have an error in your SQL syntax; check the manual that corresponds to your My 
+2013-12-16 7:27:46 - INFO --> -------------------------- 
+2013-12-16 7:27:46 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:27:46 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:27:46 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:27:46 - INFO --> CC:  
+2013-12-16 7:27:46 - INFO --> BCC:  
+2013-12-16 7:27:46 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:27:46 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+			WHERE user_id = 11 You have an error in your SQL syntax; check the manual that corresponds to your My 
+2013-12-16 7:29:31 - INFO --> -------------------------- 
+2013-12-16 7:29:31 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:29:31 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:29:31 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:29:31 - INFO --> CC:  
+2013-12-16 7:29:31 - INFO --> BCC:  
+2013-12-16 7:29:31 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:29:31 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+			WHERE user_id = 11 You have an error in your SQL syntax; check the manual that corresponds to your My 
+2013-12-16 7:29:32 - INFO --> -------------------------- 
+2013-12-16 7:29:32 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:29:32 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:29:32 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:29:32 - INFO --> CC:  
+2013-12-16 7:29:32 - INFO --> BCC:  
+2013-12-16 7:29:32 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:29:32 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+			WHERE user_id = 11 You have an error in your SQL syntax; check the manual that corresponds to your My 
+2013-12-16 7:29:53 - INFO --> -------------------------- 
+2013-12-16 7:29:53 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:29:53 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:29:53 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:29:53 - INFO --> CC:  
+2013-12-16 7:29:53 - INFO --> BCC:  
+2013-12-16 7:29:53 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:29:53 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		FROM posts
+        INNER JOIN users 
+            ON posts.user_id = users_users.user_id_followed
+   
+2013-12-16 7:31:36 - INFO --> -------------------------- 
+2013-12-16 7:31:36 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:31:36 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:31:36 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:31:36 - INFO --> CC:  
+2013-12-16 7:31:36 - INFO --> BCC:  
+2013-12-16 7:31:36 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:31:36 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		FROM posts
+        INNER JOIN users_users 
+            ON posts.user_id = users_users.user_id
+      
+2013-12-16 7:32:35 - INFO --> -------------------------- 
+2013-12-16 7:32:35 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:32:35 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:32:35 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:32:35 - INFO --> CC:  
+2013-12-16 7:32:35 - INFO --> BCC:  
+2013-12-16 7:32:35 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:32:35 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		FROM posts
+        INNER JOIN users 
+            ON posts.user_id = users.user_id
+        INNER JOI 
+2013-12-16 7:33:23 - INFO --> -------------------------- 
+2013-12-16 7:33:23 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:33:23 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:33:23 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:33:23 - INFO --> CC:  
+2013-12-16 7:33:23 - INFO --> BCC:  
+2013-12-16 7:33:23 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:33:23 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		FROM posts
+        INNER JOIN users_users 
+            ON posts.user_id = users_users
+        INNER 
+2013-12-16 7:34:03 - INFO --> -------------------------- 
+2013-12-16 7:34:03 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:34:03 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:34:03 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:34:03 - INFO --> CC:  
+2013-12-16 7:34:03 - INFO --> BCC:  
+2013-12-16 7:34:03 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:34:03 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		FROM posts
+        INNER JOIN users_users 
+            ON posts.user_id = users_users
+        INNER 
+2013-12-16 7:35:19 - INFO --> -------------------------- 
+2013-12-16 7:35:19 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:35:19 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:35:19 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:35:19 - INFO --> CC:  
+2013-12-16 7:35:19 - INFO --> BCC:  
+2013-12-16 7:35:19 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:35:19 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		
+        INNER JOIN users_users 
+            ON posts.user_id = users_users.user_id
+        INNER J 
+2013-12-16 7:37:25 - INFO --> -------------------------- 
+2013-12-16 7:37:25 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:37:25 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:37:25 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:37:25 - INFO --> CC:  
+2013-12-16 7:37:25 - INFO --> BCC:  
+2013-12-16 7:37:25 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:37:25 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		FROM posts
+        INNER JOIN users_users 
+            ON posts.user_id = users_users.user_id
+      
+2013-12-16 7:37:27 - INFO --> -------------------------- 
+2013-12-16 7:37:27 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:37:27 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:37:27 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:37:27 - INFO --> CC:  
+2013-12-16 7:37:27 - INFO --> BCC:  
+2013-12-16 7:37:27 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:37:27 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		FROM posts
+        INNER JOIN users_users 
+            ON posts.user_id = users_users.user_id
+      
+2013-12-16 7:37:29 - INFO --> -------------------------- 
+2013-12-16 7:37:29 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:37:29 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:37:29 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:37:29 - INFO --> CC:  
+2013-12-16 7:37:29 - INFO --> BCC:  
+2013-12-16 7:37:29 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:37:29 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		FROM posts
+        INNER JOIN users_users 
+            ON posts.user_id = users_users.user_id
+      
+2013-12-16 7:37:39 - INFO --> -------------------------- 
+2013-12-16 7:37:39 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:37:39 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:37:39 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:37:39 - INFO --> CC:  
+2013-12-16 7:37:39 - INFO --> BCC:  
+2013-12-16 7:37:39 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:37:39 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		FROM posts
+        INNER JOIN users_users 
+            ON posts.user_id = users_users.user_id
+      
+2013-12-16 7:37:43 - INFO --> -------------------------- 
+2013-12-16 7:37:43 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:37:43 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:37:43 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:37:43 - INFO --> CC:  
+2013-12-16 7:37:43 - INFO --> BCC:  
+2013-12-16 7:37:43 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:37:43 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		FROM posts
+        INNER JOIN users_users 
+            ON posts.user_id = users_users.user_id
+      
+2013-12-16 7:39:02 - INFO --> -------------------------- 
+2013-12-16 7:39:02 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:39:02 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:39:02 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:39:02 - INFO --> CC:  
+2013-12-16 7:39:02 - INFO --> BCC:  
+2013-12-16 7:39:02 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:39:02 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		FROM posts
+        INNER JOIN users_users 
+            ON posts.user_id = users_users.user_id
+      
+2013-12-16 7:39:39 - INFO --> -------------------------- 
+2013-12-16 7:39:39 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:39:39 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:39:39 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:39:39 - INFO --> CC:  
+2013-12-16 7:39:39 - INFO --> BCC:  
+2013-12-16 7:39:39 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:39:39 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		FROM posts
+        INNER JOIN users_users 
+            ON posts.user_id = users_users
+        INNER 
+2013-12-16 7:39:41 - INFO --> -------------------------- 
+2013-12-16 7:39:41 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:39:41 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:39:41 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:39:41 - INFO --> CC:  
+2013-12-16 7:39:41 - INFO --> BCC:  
+2013-12-16 7:39:41 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:39:41 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		FROM posts
+        INNER JOIN users_users 
+            ON posts.user_id = users_users
+        INNER 
+2013-12-16 7:39:57 - INFO --> -------------------------- 
+2013-12-16 7:39:57 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:39:57 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:39:57 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:39:57 - INFO --> CC:  
+2013-12-16 7:39:57 - INFO --> BCC:  
+2013-12-16 7:39:57 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:39:57 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		FROM posts
+        INNER JOIN users_users 
+            ON posts.user_id = users_users
+        INNER 
+2013-12-16 7:40:54 - INFO --> -------------------------- 
+2013-12-16 7:40:54 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:40:54 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:40:54 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:40:54 - INFO --> CC:  
+2013-12-16 7:40:54 - INFO --> BCC:  
+2013-12-16 7:40:54 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:40:54 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+			 FROM posts
+        FROM posts
+        INNER JOIN users_users 
+            ON posts.user_id = user 
+2013-12-16 7:41:53 - INFO --> -------------------------- 
+2013-12-16 7:41:53 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:41:53 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:41:53 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:41:53 - INFO --> CC:  
+2013-12-16 7:41:53 - INFO --> BCC:  
+2013-12-16 7:41:53 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:41:53 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+			 FROM posts
+        FROM posts
+		INNER JOIN users_users 
+            ON posts.user_id = users_user 
+2013-12-16 7:43:04 - INFO --> -------------------------- 
+2013-12-16 7:43:04 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:43:04 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:43:04 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:43:04 - INFO --> CC:  
+2013-12-16 7:43:04 - INFO --> BCC:  
+2013-12-16 7:43:04 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:43:04 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		
+        FROM posts
+		INNER JOIN users_users 
+            ON posts.user_id = users_users.user_id_fo 
+2013-12-16 7:45:48 - INFO --> -------------------------- 
+2013-12-16 7:45:48 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:45:48 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:45:48 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:45:48 - INFO --> CC:  
+2013-12-16 7:45:48 - INFO --> BCC:  
+2013-12-16 7:45:48 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:45:48 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		
+        FROM posts
+		INNER JOIN users_users 
+            ON posts.user_id = users.user_id_followed 
+2013-12-16 7:46:18 - INFO --> -------------------------- 
+2013-12-16 7:46:18 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:46:18 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:46:18 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:46:18 - INFO --> CC:  
+2013-12-16 7:46:18 - INFO --> BCC:  
+2013-12-16 7:46:18 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:46:18 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		
+        FROM posts
+		INNER JOIN users
+            ON posts.user_id = users_users.user_id_followed 
+2013-12-16 7:46:25 - INFO --> -------------------------- 
+2013-12-16 7:46:25 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:46:25 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:46:25 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:46:25 - INFO --> CC:  
+2013-12-16 7:46:25 - INFO --> BCC:  
+2013-12-16 7:46:25 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:46:25 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		
+        FROM posts
+		INNER JOIN users
+            ON posts.user_id = users_users.user_id_followed 
+2013-12-16 7:47:52 - INFO --> -------------------------- 
+2013-12-16 7:47:52 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:47:52 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:47:52 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:47:52 - INFO --> CC:  
+2013-12-16 7:47:52 - INFO --> BCC:  
+2013-12-16 7:47:52 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:47:52 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		
+        FROM posts
+		INNER JOIN users_users
+            ON posts.user_id = users.user_id
+         
+2013-12-16 7:48:18 - INFO --> -------------------------- 
+2013-12-16 7:48:18 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:48:18 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:48:18 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:48:18 - INFO --> CC:  
+2013-12-16 7:48:18 - INFO --> BCC:  
+2013-12-16 7:48:18 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:48:18 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		
+        FROM posts
+		INNER JOIN users_users
+            ON posts.user_id = users.user_id_followed 
+2013-12-16 7:48:29 - INFO --> -------------------------- 
+2013-12-16 7:48:29 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:48:29 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:48:29 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:48:29 - INFO --> CC:  
+2013-12-16 7:48:29 - INFO --> BCC:  
+2013-12-16 7:48:29 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:48:29 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		
+        FROM posts
+		INNER JOIN users_users
+            ON posts.user_id = users.user_id_followed 
+2013-12-16 7:48:30 - INFO --> -------------------------- 
+2013-12-16 7:48:30 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:48:30 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:48:30 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:48:30 - INFO --> CC:  
+2013-12-16 7:48:30 - INFO --> BCC:  
+2013-12-16 7:48:30 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:48:30 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		
+        FROM posts
+		INNER JOIN users_users
+            ON posts.user_id = users.user_id_followed 
+2013-12-16 7:48:33 - INFO --> -------------------------- 
+2013-12-16 7:48:33 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:48:33 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:48:33 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:48:33 - INFO --> CC:  
+2013-12-16 7:48:33 - INFO --> BCC:  
+2013-12-16 7:48:33 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:48:33 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		
+        FROM posts
+		INNER JOIN users_users
+            ON posts.user_id = users.user_id_followed 
+2013-12-16 7:48:40 - INFO --> -------------------------- 
+2013-12-16 7:48:40 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:48:40 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:48:40 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:48:40 - INFO --> CC:  
+2013-12-16 7:48:40 - INFO --> BCC:  
+2013-12-16 7:48:40 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:48:40 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		
+        FROM posts
+		INNER JOIN users_users
+            ON posts.user_id = users.user_id_followed 
+2013-12-16 7:50:14 - INFO --> -------------------------- 
+2013-12-16 7:50:14 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:50:14 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:50:14 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:50:14 - INFO --> CC:  
+2013-12-16 7:50:14 - INFO --> BCC:  
+2013-12-16 7:50:14 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:50:14 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		
+        FROM posts
+		INNER JOIN users_users
+            ON posts.user_id = users_users.user
+      
+2013-12-16 7:56:25 - INFO --> -------------------------- 
+2013-12-16 7:56:25 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:56:25 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:56:25 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:56:25 - INFO --> CC:  
+2013-12-16 7:56:25 - INFO --> BCC:  
+2013-12-16 7:56:25 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:56:25 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		
+       
+        WHERE users.user_id = 11 You have an error in your SQL syntax; check the manual tha 
+2013-12-16 7:57:09 - INFO --> -------------------------- 
+2013-12-16 7:57:09 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:57:09 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:57:09 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:57:09 - INFO --> CC:  
+2013-12-16 7:57:09 - INFO --> BCC:  
+2013-12-16 7:57:09 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:57:09 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		
+        FROM posts
+		
+        WHERE users.user_id = 11 Unknown column 'users.first_name' in 'field 
+2013-12-16 7:58:47 - INFO --> -------------------------- 
+2013-12-16 7:58:47 - INFO --> Controller/Method: posts/delete 
+2013-12-16 7:58:47 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 7:58:47 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 7:58:47 - INFO --> CC:  
+2013-12-16 7:58:47 - INFO --> BCC:  
+2013-12-16 7:58:47 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 7:58:47 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		
+        FROM posts
+		JOIN users
+            ON posts.user_id = users_users.user_id
+        JOIN u 
+2013-12-16 8:18:15 - INFO --> -------------------------- 
+2013-12-16 8:18:15 - INFO --> Controller/Method: posts/delete 
+2013-12-16 8:18:15 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 8:18:15 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 8:18:15 - INFO --> CC:  
+2013-12-16 8:18:15 - INFO --> BCC:  
+2013-12-16 8:18:15 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 8:18:15 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '2ac737de40d8d3819d66470e443927c8a 
+2013-12-16 8:18:20 - INFO --> -------------------------- 
+2013-12-16 8:18:20 - INFO --> Controller/Method: posts/delete 
+2013-12-16 8:18:20 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 8:18:20 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 8:18:20 - INFO --> CC:  
+2013-12-16 8:18:20 - INFO --> BCC:  
+2013-12-16 8:18:20 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 8:18:20 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '2ac737de40d8d3819d66470e443927c8a 
+2013-12-16 8:19:06 - INFO --> -------------------------- 
+2013-12-16 8:19:06 - INFO --> Controller/Method: posts/delete 
+2013-12-16 8:19:06 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 8:19:06 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 8:19:06 - INFO --> CC:  
+2013-12-16 8:19:06 - INFO --> BCC:  
+2013-12-16 8:19:06 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 8:19:06 - INFO --> Body: <h2>SQL Error</h2> UPDATE posts SE  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '2ac737de40d8d3819d66470e443927c8a76be75d'
+		 
+2013-12-16 8:22:21 - INFO --> -------------------------- 
+2013-12-16 8:22:21 - INFO --> Controller/Method: posts/delete 
+2013-12-16 8:22:21 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 8:22:21 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 8:22:21 - INFO --> CC:  
+2013-12-16 8:22:21 - INFO --> BCC:  
+2013-12-16 8:22:21 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 8:22:21 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '2ac737de40d8d3819d66470e443927c8a 
+2013-12-16 8:23:18 - INFO --> -------------------------- 
+2013-12-16 8:23:18 - INFO --> Controller/Method: posts/delete 
+2013-12-16 8:23:18 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 8:23:18 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 8:23:18 - INFO --> CC:  
+2013-12-16 8:23:18 - INFO --> BCC:  
+2013-12-16 8:23:18 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 8:23:18 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '2ac737de40d8d3819d66470e443927c8a 
+2013-12-16 8:25:35 - INFO --> -------------------------- 
+2013-12-16 8:25:35 - INFO --> Controller/Method: posts/delete 
+2013-12-16 8:25:35 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 8:25:35 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 8:25:35 - INFO --> CC:  
+2013-12-16 8:25:35 - INFO --> BCC:  
+2013-12-16 8:25:35 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 8:25:35 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '2ac737de40d8d3819d66470e443927c8a 
+2013-12-16 8:25:46 - INFO --> -------------------------- 
+2013-12-16 8:25:46 - INFO --> Controller/Method: posts/delete 
+2013-12-16 8:25:46 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 8:25:46 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 8:25:46 - INFO --> CC:  
+2013-12-16 8:25:46 - INFO --> BCC:  
+2013-12-16 8:25:46 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 8:25:46 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '2ac737de40d8d3819d66470e443927c8a 
+2013-12-16 8:25:57 - INFO --> -------------------------- 
+2013-12-16 8:25:57 - INFO --> Controller/Method: posts/delete 
+2013-12-16 8:25:57 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 8:25:57 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 8:25:57 - INFO --> CC:  
+2013-12-16 8:25:57 - INFO --> BCC:  
+2013-12-16 8:25:57 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 8:25:57 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '2ac737de40d8d3819d66470e443927c8a 
+2013-12-16 8:26:02 - INFO --> -------------------------- 
+2013-12-16 8:26:02 - INFO --> Controller/Method: posts/delete 
+2013-12-16 8:26:02 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 8:26:02 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 8:26:02 - INFO --> CC:  
+2013-12-16 8:26:02 - INFO --> BCC:  
+2013-12-16 8:26:02 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 8:26:02 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '2ac737de40d8d3819d66470e443927c8a 
+2013-12-16 8:35:44 - INFO --> -------------------------- 
+2013-12-16 8:35:44 - INFO --> Controller/Method: posts/delete 
+2013-12-16 8:35:44 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 8:35:44 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 8:35:44 - INFO --> CC:  
+2013-12-16 8:35:44 - INFO --> BCC:  
+2013-12-16 8:35:44 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 8:35:44 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '2ac737de40d8d3819d66470e443927c8a 
+2013-12-16 8:36:40 - INFO --> -------------------------- 
+2013-12-16 8:36:40 - INFO --> Controller/Method: posts/delete 
+2013-12-16 8:36:40 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 8:36:40 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 8:36:40 - INFO --> CC:  
+2013-12-16 8:36:40 - INFO --> BCC:  
+2013-12-16 8:36:40 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 8:36:40 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '2ac737de40d8d3819d66470e443927c8a 
+2013-12-16 8:38:17 - INFO --> -------------------------- 
+2013-12-16 8:38:17 - INFO --> Controller/Method: posts/delete 
+2013-12-16 8:38:17 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 8:38:17 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 8:38:17 - INFO --> CC:  
+2013-12-16 8:38:17 - INFO --> BCC:  
+2013-12-16 8:38:17 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 8:38:17 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '2ac737de40d8d3819d66470e443927c8a 
+2013-12-16 8:38:40 - INFO --> -------------------------- 
+2013-12-16 8:38:40 - INFO --> Controller/Method: posts/delete 
+2013-12-16 8:38:40 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 8:38:40 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 8:38:40 - INFO --> CC:  
+2013-12-16 8:38:40 - INFO --> BCC:  
+2013-12-16 8:38:40 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 8:38:40 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '2ac737de40d8d3819d66470e443927c8a 
+2013-12-16 8:50:01 - INFO --> -------------------------- 
+2013-12-16 8:50:01 - INFO --> Controller/Method: posts/delete 
+2013-12-16 8:50:01 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 8:50:01 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 8:50:01 - INFO --> CC:  
+2013-12-16 8:50:01 - INFO --> BCC:  
+2013-12-16 8:50:01 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 8:50:01 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '2ac737de40d8d3819d66470e443927c8a 
+2013-12-16 8:50:06 - INFO --> -------------------------- 
+2013-12-16 8:50:06 - INFO --> Controller/Method: posts/delete 
+2013-12-16 8:50:06 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 8:50:06 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 8:50:06 - INFO --> CC:  
+2013-12-16 8:50:06 - INFO --> BCC:  
+2013-12-16 8:50:06 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 8:50:06 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '2ac737de40d8d3819d66470e443927c8a 
+2013-12-16 8:50:15 - INFO --> -------------------------- 
+2013-12-16 8:50:15 - INFO --> Controller/Method: posts/delete 
+2013-12-16 8:50:15 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 8:50:15 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 8:50:15 - INFO --> CC:  
+2013-12-16 8:50:15 - INFO --> BCC:  
+2013-12-16 8:50:15 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 8:50:15 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '2ac737de40d8d3819d66470e443927c8a 
+2013-12-16 9:02:18 - INFO --> -------------------------- 
+2013-12-16 9:02:18 - INFO --> Controller/Method: posts/delete 
+2013-12-16 9:02:18 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 9:02:18 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 9:02:18 - INFO --> CC:  
+2013-12-16 9:02:18 - INFO --> BCC:  
+2013-12-16 9:02:18 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 9:02:18 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '2ac737de40d8d3819d66470e443927c8a 
+2013-12-16 9:03:00 - INFO --> -------------------------- 
+2013-12-16 9:03:00 - INFO --> Controller/Method: posts/delete 
+2013-12-16 9:03:00 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 9:03:00 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 9:03:00 - INFO --> CC:  
+2013-12-16 9:03:00 - INFO --> BCC:  
+2013-12-16 9:03:00 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 9:03:00 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '2ac737de40d8d3819d66470e443927c8a 
+2013-12-16 9:03:22 - INFO --> -------------------------- 
+2013-12-16 9:03:22 - INFO --> Controller/Method: posts/Delete 
+2013-12-16 9:03:22 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 9:03:22 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 9:03:22 - INFO --> CC:  
+2013-12-16 9:03:22 - INFO --> BCC:  
+2013-12-16 9:03:22 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 9:03:22 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '2ac737de40d8d3819d66470e443927c8a 
+2013-12-16 9:26:57 - INFO --> -------------------------- 
+2013-12-16 9:26:57 - INFO --> Controller/Method: posts/Delete 
+2013-12-16 9:26:57 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 9:26:57 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 9:26:57 - INFO --> CC:  
+2013-12-16 9:26:57 - INFO --> BCC:  
+2013-12-16 9:26:57 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 9:26:57 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '2ac737de40d8d3819d66470e443927c8a 
+2013-12-16 9:31:27 - INFO --> -------------------------- 
+2013-12-16 9:31:27 - INFO --> Controller/Method: posts/Delete 
+2013-12-16 9:31:27 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 9:31:27 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 9:31:27 - INFO --> CC:  
+2013-12-16 9:31:27 - INFO --> BCC:  
+2013-12-16 9:31:27 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 9:31:27 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '2ac737de40d8d3819d66470e443927c8a 
+2013-12-16 9:31:37 - INFO --> -------------------------- 
+2013-12-16 9:31:37 - INFO --> Controller/Method: posts/Delete 
+2013-12-16 9:31:37 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 9:31:37 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 9:31:37 - INFO --> CC:  
+2013-12-16 9:31:37 - INFO --> BCC:  
+2013-12-16 9:31:37 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 9:31:37 - INFO --> Body: <h2>SQL Error</h2> DELETE FROM posts Array You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '2ac737de40d8d3819d66470e443927c8a 
+2013-12-16 10:38:36 - INFO --> -------------------------- 
+2013-12-16 10:38:36 - INFO --> Controller/Method: posts/delete 
+2013-12-16 10:38:36 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 10:38:36 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 10:38:36 - INFO --> CC:  
+2013-12-16 10:38:36 - INFO --> BCC:  
+2013-12-16 10:38:36 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 10:38:36 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		
+      
+		
+        JOIN users 
+            ON posts.user_id = users.user_id
+        WHERE users.u 
+2013-12-16 10:39:08 - INFO --> -------------------------- 
+2013-12-16 10:39:08 - INFO --> Controller/Method: posts/delete 
+2013-12-16 10:39:08 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 10:39:08 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 10:39:08 - INFO --> CC:  
+2013-12-16 10:39:08 - INFO --> BCC:  
+2013-12-16 10:39:08 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 10:39:08 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+	
+        JOIN users 
+            ON posts.user_id = users.user_id
+        WHERE users.user_id = 11 Y 
+2013-12-16 10:39:10 - INFO --> -------------------------- 
+2013-12-16 10:39:10 - INFO --> Controller/Method: posts/delete 
+2013-12-16 10:39:10 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 10:39:10 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 10:39:10 - INFO --> CC:  
+2013-12-16 10:39:10 - INFO --> BCC:  
+2013-12-16 10:39:10 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 10:39:10 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+	
+        JOIN users 
+            ON posts.user_id = users.user_id
+        WHERE users.user_id = 11 Y 
+2013-12-16 13:00:47 - INFO --> -------------------------- 
+2013-12-16 13:00:47 - INFO --> Controller/Method: posts/delete 
+2013-12-16 13:00:47 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-16 13:00:47 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-16 13:00:47 - INFO --> CC:  
+2013-12-16 13:00:47 - INFO --> BCC:  
+2013-12-16 13:00:47 - INFO --> Subject: v-pop SQL Error 
+2013-12-16 13:00:47 - INFO --> Body: <h2>SQL Error</h2>  <h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'f1ffbec92125d4bb6b8537cd2b476db22c836c30'
+					LIMIT 1<br>1 = <br><h2>SERVER</h2><pre>Array
+(
+    [REDIRECT_MIBDIRS] => C:/xampp/php/extras/mibs
+    [REDIRECT_MYSQL_HOME] => \xampp\mysql\bin
+    [REDIRECT_O 

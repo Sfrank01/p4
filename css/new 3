@@ -1,0 +1,35 @@
+ down vote accepted
+	
+
+I updated your script below, try it if it works.
+
+<?php 
+
+    if(isset($_POST['delete'])){
+       $id = $_POST['delete_rec_id'];  
+       $query = "DELETE FROM notes WHERE id=$id"; 
+       $result = mysql_query($query);
+    }
+
+    $query = "SELECT * FROM notes WHERE subject='Work' order by id desc";
+    $result = mysql_query($query);
+    while ($row = mysql_fetch_array($result)) { 
+            $id = $row['id'];
+            $subject = $row['subject'];
+            $date = $row['date'];
+            $note = $row['note']; 
+
+            print "<p><strong>$subject</strong> ($id), $date </p>"; 
+            print "<p> $note </p>";
+
+        ?>
+        //delete button starts here here
+        <form id="delete" method="post" action="">
+        <input type="hidden" name="delete_rec_id" value="<?php print $id; ?>"/> 
+        <input type="submit" name="delete" value="Delete!"/>    
+
+        </form>
+        <?php
+    }   
+    ?>
+

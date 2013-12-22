@@ -1,0 +1,120 @@
+2013-12-17 4:29:12 - INFO --> -------------------------- 
+2013-12-17 4:29:12 - INFO --> Controller/Method: posts/delete 
+2013-12-17 4:29:13 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-17 4:29:13 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-17 4:29:13 - INFO --> CC:  
+2013-12-17 4:29:13 - INFO --> BCC:  
+2013-12-17 4:29:13 - INFO --> Subject: v-pop SQL Error 
+2013-12-17 4:29:13 - INFO --> Body: <h2>SQL Error</h2> DELETE 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		
+        FROM posts
+		
+        JOIN users 
+           ON posts.user_id = users.user_id
+        WH 
+2013-12-17 4:30:01 - INFO --> -------------------------- 
+2013-12-17 4:30:01 - INFO --> Controller/Method: posts/delete 
+2013-12-17 4:30:01 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-17 4:30:01 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-17 4:30:01 - INFO --> CC:  
+2013-12-17 4:30:01 - INFO --> BCC:  
+2013-12-17 4:30:01 - INFO --> Subject: v-pop SQL Error 
+2013-12-17 4:30:01 - INFO --> Body: <h2>SQL Error</h2> DELETE 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		
+        FROM posts
+		
+        JOIN users 
+           ON posts.user_id = users.user_id
+        WH 
+2013-12-17 4:31:05 - INFO --> -------------------------- 
+2013-12-17 4:31:05 - INFO --> Controller/Method: posts/delete 
+2013-12-17 4:31:05 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-17 4:31:05 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-17 4:31:05 - INFO --> CC:  
+2013-12-17 4:31:05 - INFO --> BCC:  
+2013-12-17 4:31:05 - INFO --> Subject: v-pop SQL Error 
+2013-12-17 4:31:05 - INFO --> Body: <h2>SQL Error</h2> DELETE 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		
+        FROM posts
+		
+        JOIN users 
+           ON posts.user_id = users.user_id
+        WH 
+2013-12-17 4:31:06 - INFO --> -------------------------- 
+2013-12-17 4:31:06 - INFO --> Controller/Method: posts/delete 
+2013-12-17 4:31:06 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-17 4:31:06 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-17 4:31:06 - INFO --> CC:  
+2013-12-17 4:31:06 - INFO --> BCC:  
+2013-12-17 4:31:06 - INFO --> Subject: v-pop SQL Error 
+2013-12-17 4:31:06 - INFO --> Body: <h2>SQL Error</h2> DELETE 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		
+        FROM posts
+		
+        JOIN users 
+           ON posts.user_id = users.user_id
+        WH 
+2013-12-17 4:31:18 - INFO --> -------------------------- 
+2013-12-17 4:31:18 - INFO --> Controller/Method: posts/delete 
+2013-12-17 4:31:18 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-17 4:31:18 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-17 4:31:18 - INFO --> CC:  
+2013-12-17 4:31:18 - INFO --> BCC:  
+2013-12-17 4:31:18 - INFO --> Subject: v-pop SQL Error 
+2013-12-17 4:31:18 - INFO --> Body: <h2>SQL Error</h2> DELETE 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		
+        FROM posts
+		
+        JOIN users 
+           ON posts.user_id = users.user_id
+        WH 
+2013-12-17 4:32:41 - INFO --> -------------------------- 
+2013-12-17 4:32:41 - INFO --> Controller/Method: posts/delete 
+2013-12-17 4:32:41 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-17 4:32:41 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-17 4:32:41 - INFO --> CC:  
+2013-12-17 4:32:41 - INFO --> BCC:  
+2013-12-17 4:32:41 - INFO --> Subject: v-pop SQL Error 
+2013-12-17 4:32:41 - INFO --> Body: <h2>SQL Error</h2> DELETE 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+      
+            users.first_name,
+            users.last_name
+		
+        FROM posts
+		
+        JOIN users 
+           ON posts.user_id = users.user_id
+        WH 
