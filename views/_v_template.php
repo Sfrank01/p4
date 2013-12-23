@@ -29,7 +29,7 @@
 				<li><a href ='/'><h3> Home</h3></a></li>
 			<?php if ($user): ?>
 				<li><a href ='/posts/add'><h3> Add Post</h3></a></li>	
-				<li><a href ='/posts/delete'><h3> Delete My Post</h3></a></li>
+				<li><a href ='/posts/image'><h3> Post Image</h3></a></li>
 				<li><a href ='/posts/'><h3> View Posts</h3></a></li>
 				<li><a href ='/posts/users'><h3> Follow Users</h3></a></li>
 				<li><a href ='/users/logout'><h3> Logout</h3></a></li>

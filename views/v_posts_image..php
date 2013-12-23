@@ -7,7 +7,7 @@
 
 
 
-<form method='POST' action='v_posts_delete' enctype='multipart/form-data'>
+<form action='v_posts_image.php' method='POST' enctype='multipart/form-data'>
 
 	add image file:<br>
 	
@@ -21,7 +21,7 @@
 <?php
 // connect to database//
 		mysql_Connect("localhost", "root", "") or die ( mysql_error() );
-		mysql_Select_db( "imagedatabase") or die ( mysql_error() );
+		mysql_Select_db( "marinebo_test") or die ( mysql_error() );
       
 		// files properties//
 		echo $file= $_FILES ['image']['tmp_name'];
@@ -39,7 +39,7 @@
 			echo "not an image";
 		else
 			{
-			if(! $insert= mysql_query("INSERT INTO store VALUES('$user_id','','$image_name','$image')"))
+			if(! $insert= mysql_query("INSERT INTO store VALUES('','$image_name','$image')"))
 			 
 				echo "Problem uploading image";
 			  # Associate this post with this user

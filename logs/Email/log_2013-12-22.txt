@@ -1,0 +1,70 @@
+2013-12-22 9:24:45 - INFO --> -------------------------- 
+2013-12-22 9:24:45 - INFO --> Controller/Method: posts/p_add 
+2013-12-22 9:24:45 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-22 9:24:45 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-22 9:24:45 - INFO --> CC:  
+2013-12-22 9:24:45 - INFO --> BCC:  
+2013-12-22 9:24:45 - INFO --> Subject: v-pop SQL Error 
+2013-12-22 9:24:45 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO posts SET size = '350000', file = 'gilligan.jpg', content = 'hey gilligan this is ginger			', user_id = '15', created = '1387722285', modified = '1387722285' Unknown column 'size' in 'field list'<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '8 
+2013-12-22 9:26:24 - INFO --> -------------------------- 
+2013-12-22 9:26:24 - INFO --> Controller/Method: posts/p_add 
+2013-12-22 9:26:24 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-22 9:26:24 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-22 9:26:24 - INFO --> CC:  
+2013-12-22 9:26:24 - INFO --> BCC:  
+2013-12-22 9:26:24 - INFO --> Subject: v-pop SQL Error 
+2013-12-22 9:26:24 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO posts SET size = '350000', file = 'skipper .png', content = 'this is ginger speaking		', user_id = '15', created = '1387722384', modified = '1387722384' Unknown column 'size' in 'field list'<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '8d25be 
+2013-12-22 9:35:26 - INFO --> -------------------------- 
+2013-12-22 9:35:26 - INFO --> Controller/Method: posts/p_add 
+2013-12-22 9:35:26 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-22 9:35:26 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-22 9:35:26 - INFO --> CC:  
+2013-12-22 9:35:26 - INFO --> BCC:  
+2013-12-22 9:35:26 - INFO --> Subject: v-pop SQL Error 
+2013-12-22 9:35:26 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO posts SET size = '350000', file = 'skipper .png', content = '		hello1	', user_id = '15', created = '1387722926', modified = '1387722926' Unknown column 'size' in 'field list'<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '8d25be408ac9be145448c1 
+2013-12-22 9:37:22 - INFO --> -------------------------- 
+2013-12-22 9:37:22 - INFO --> Controller/Method: posts/p_add 
+2013-12-22 9:37:22 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-22 9:37:22 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-22 9:37:22 - INFO --> CC:  
+2013-12-22 9:37:22 - INFO --> BCC:  
+2013-12-22 9:37:22 - INFO --> Subject: v-pop SQL Error 
+2013-12-22 9:37:22 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO posts SET size = '350000', file = 'skipper .png', content = '	try again and again		', user_id = '15', created = '1387723042', modified = '1387723042' Unknown column 'size' in 'field list'<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '8d25be408 
+2013-12-22 13:34:11 - INFO --> -------------------------- 
+2013-12-22 13:34:11 - INFO --> Controller/Method: posts/p_add 
+2013-12-22 13:34:11 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-22 13:34:11 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-22 13:34:11 - INFO --> CC:  
+2013-12-22 13:34:11 - INFO --> BCC:  
+2013-12-22 13:34:11 - INFO --> Subject: v-pop SQL Error 
+2013-12-22 13:34:11 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO posts SET content = 'kjk', size = '350000', file = 'skipper .png', user_id = '11', created = '1387737251', modified = '1387737251' Unknown column 'size' in 'field list'<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'c0d36711b72cf329f272e29c9b2d 
+2013-12-22 13:35:40 - INFO --> -------------------------- 
+2013-12-22 13:35:40 - INFO --> Controller/Method: posts/p_add 
+2013-12-22 13:35:40 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-22 13:35:40 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-22 13:35:40 - INFO --> CC:  
+2013-12-22 13:35:40 - INFO --> BCC:  
+2013-12-22 13:35:40 - INFO --> Subject: v-pop SQL Error 
+2013-12-22 13:35:40 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO posts SET content = 'kjkjkj', size = '350000', file = 'skipper copy.png', user_id = '11', created = '1387737340', modified = '1387737340' Unknown column 'size' in 'field list'<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'c0d36711b72cf329f272e 
+2013-12-22 13:43:10 - INFO --> -------------------------- 
+2013-12-22 13:43:10 - INFO --> Controller/Method: posts/p_add 
+2013-12-22 13:43:10 - INFO --> From: v-pop (sfrank01@g.harvard.edu) 
+2013-12-22 13:43:10 - INFO --> To: v-pop (sfrank@g.harvard.edu),  
+2013-12-22 13:43:10 - INFO --> CC:  
+2013-12-22 13:43:10 - INFO --> BCC:  
+2013-12-22 13:43:10 - INFO --> Subject: v-pop SQL Error 
+2013-12-22 13:43:10 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO posts SET content = 'kjkjk', size = '350000', file = 'skipper copy.png', user_id = '11', created = '1387737790', modified = '1387737790' Unknown column 'size' in 'field list'<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'c0d36711b72cf329f272e2 

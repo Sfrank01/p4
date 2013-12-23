@@ -10,7 +10,8 @@
         }
     }
 
-    public function add() {
+  
+  public function add() {
 
         # Setup view
         $this->template->content = View::instance('v_posts_add');
@@ -21,57 +22,10 @@
 
     }
 
- public function p_add() {
-
-
- 
-
-	if($_POST['file'] == "Upload"){$image =$_FILES["file"]["name"];$uploadedfile = $_FILES['file']['tmp_name'];
-	
-    if ($image){$filename = stripslashes($_FILES['file']['name']);$extension = getExtension($filename); $extension = strtolower($extension);    
-        if (($extension != "jpg") && ($extension != "jpeg") && ($extension != "png") && ($extension != "gif")) {$change='Invalid Picture';$errors=1;}
-        else{$size=filesize($_FILES['file']['tmp_name']);
-            if ($size > $max_size*1024){$change='File too big!';$errors=1;}
-            else{
-                if($extension=="jpg" || $extension=="jpeg" ){$uploadedfile = $_FILES['file']['tmp_name'];$src = imagecreatefromjpeg($uploadedfile);}
-                else if($extension=="png"){$uploadedfile = $_FILES['file']['tmp_name'];$src = imagecreatefrompng($uploadedfile);}
-                else {$src = imagecreatefromgif($uploadedfile);}
-                echo $scr;
-                list($width,$height)=getimagesize($uploadedfile);
-
-                //MAIN IMAGE
-                $newwidth=300;
-                $newheight=($height/$width)*$newwidth;
-                $tmp=imagecreatetruecolor($newwidth,$newheight);
-                $kek=imagecolorallocate($tmp, 255, 255, 255);
-                imagefill($tmp,0,0,$kek);
-                imagecopyresampled($tmp,$src,0,0,0,0,$newwidth,$newheight,$width,$height);
-
-                //Does Directory Exhist?
-                if(is_dir("/images/")==FALSE){mkdir("/images/");}
-
-         
-
-
-		 //Build file path and SAVE
-                $filepath = $_SERVER['DOCUMENT_ROOT']."images/".md5(genRandomString().$_FILES['file']['name']).".".$extension;
-                imagejpeg($tmp,$filepath,100);
-                imagejpeg($tmp,$filepath,100);
-                imagedestroy($src);
-                imagedestroy($tmp);
-
-                //ERROR HANDLING
-  if($_FILES["file"]["size"]<=0){$errors=1;$change='No file';}
-                if($errors!=1){$change='Image Uploaded!';}
-            }
-        }
-    }
-}
-
- 
+    public function p_add() {
 
         # Associate this post with this user
-       $_POST['user_id']  = $this->user->user_id;
+        $_POST['user_id']  = $this->user->user_id;
 
         # Unix timestamp of when this post was created / modified
         $_POST['created']  = Time::now();
@@ -82,72 +36,24 @@
         DB::instance(DB_NAME)->insert('posts', $_POST);
 
         # Quick and dirty feedback
-        echo "Your post has been added. <a href='/posts/add'>Add another</a>";	
-		
-	
- }
-
-
-	
+        echo "Your post has been added. <a href='/posts/add'>Add another</a>";
+ }	
 	
 	
 
- public function delete() {
+ public function image() {
 
     # Set up the View
-    $this->template->content = View::instance('v_posts_delete');
+    $this->template->content = View::instance('v_posts_image');
     $this->template->title   = "delete";
  
-	  # Query
-    $q = 'SELECT 
-            posts.content,
-            posts.created,
-            posts.user_id AS post_user_id,
-			posts.post_id,
-            users.first_name,
-            users.last_name
-		
-        FROM posts
-		
-        JOIN users 
-            ON posts.user_id = users.user_id
-        WHERE users.user_id = '.$this->user->user_id;
-			
-
-    # Run the query
-    $posts = DB::instance(DB_NAME)->select_rows($q);
-
-    # Pass data to the View
-    $this->template->content->posts = $posts;
 	
 	echo $this->template;
    }
 		
 	
 	
-	public function p_delete() { 
-	
-	 # Associate this post with this user
-       
-	
-   $q = 'SELECT 
-            posts.content,
-			posts.post_id,
-            posts.file,
-        FROM posts
-	  WHERE users.user_id = '.$this->user->user_id;
-	
-
-     $posts = DB::instance(DB_NAME)->select_rows($q);
- 		
-	
-    # Do the delete
-  DB::instance(DB_NAME)->delete('posts', $posts);
-
-	    # Quick and dirty feedback
-        echo "Your post has been deleted. <a href='/posts/delete'>Delete another</a>";
-
-}	  
+  
 		
 public function index() {
 	
